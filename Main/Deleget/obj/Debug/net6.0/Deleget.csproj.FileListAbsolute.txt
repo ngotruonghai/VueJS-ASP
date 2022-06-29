@@ -1,0 +1,15 @@
+D:\IT\VueJS\Project\Console\Main\Deleget\bin\Debug\net6.0\Deleget.exe
+D:\IT\VueJS\Project\Console\Main\Deleget\bin\Debug\net6.0\Deleget.deps.json
+D:\IT\VueJS\Project\Console\Main\Deleget\bin\Debug\net6.0\Deleget.runtimeconfig.json
+D:\IT\VueJS\Project\Console\Main\Deleget\bin\Debug\net6.0\Deleget.dll
+D:\IT\VueJS\Project\Console\Main\Deleget\bin\Debug\net6.0\Deleget.pdb
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.csproj.AssemblyReference.cache
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.AssemblyInfoInputs.cache
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.AssemblyInfo.cs
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.csproj.CoreCompileInputs.cache
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.dll
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\refint\Deleget.dll
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.pdb
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\Deleget.genruntimeconfig.cache
+D:\IT\VueJS\Project\Console\Main\Deleget\obj\Debug\net6.0\ref\Deleget.dll
